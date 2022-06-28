@@ -57,7 +57,7 @@ The application is built to provide a nueral network model using Machine Learnin
 3. Create Input Features, Hidden Layers, and Neurons.
 4. Fit the Data
 5. Save the file to HDF5 file
-6. Repear steps 3-5 for 2 additional neural network models.
+6. Repeat steps 3-5 for 2 additional neural network models.
 
 ---
 
